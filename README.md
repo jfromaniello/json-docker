@@ -1,6 +1,8 @@
-The very useful [trentm/json command](https://github.com/trentm/json) in a docker container.
+# json-docker
 
-This useful for environment where you can't install anything but dockers like [CoreOS](https://coreos.com/).
+The very useful [trentm/json](https://github.com/trentm/json) command tool in a docker container.
+
+> This is useful for environments where you can't install anything but dockers, like [CoreOS](https://coreos.com/).
 
 ## Usage
 
